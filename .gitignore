@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# Idea files
+/sharelane/.idea/
+
 # BlueJ files
 *.ctxt
 
