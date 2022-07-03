@@ -83,8 +83,6 @@ public class SignUpTest {
 
         //Close driver
 
-        System.out.println();
-
     }
 
 }
