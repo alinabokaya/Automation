@@ -358,7 +358,6 @@ public class SignUpTest {
         //Enter email to Email Field
         driver.findElement(By.name("email")).sendKeys("linda_baker@605.75.sharelane.com");
 
-
         //Enter password
         driver.findElement(By.name("password")).sendKeys("1111");
 
